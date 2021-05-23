@@ -1,0 +1,26 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\obj\Debug\CalculoConsumo.Form1.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\obj\Debug\CalculoConsumo.Properties.Resources.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\obj\Debug\CalculoConsumo.csproj.GenerateResource.Cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\bin\Debug\CalculoConsumo.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\bin\Debug\CalculoConsumo.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\obj\Debug\CalculoConsumo.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\CalculoConsumo\obj\Debug\CalculoConsumo.pdb
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\obj\Debug\CalculoConsumo.exe
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\obj\Debug\CalculoConsumo.pdb
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\bin\Debug\CalculoConsumo.exe
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\bin\Debug\CalculoConsumo.pdb
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\obj\Debug\ResolveAssemblyReference.cache
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\obj\Debug\CalculoConsumo.Form1.resources
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\obj\Debug\CalculoConsumo.Properties.Resources.resources
+D:\2º Módulo\C#\CalculoConsumo\CalculoConsumo\obj\Debug\CalculoConsumo.csproj.GenerateResource.Cache
+D:\2º Módulo\C#\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.exe
+D:\2º Módulo\C#\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\bin\Debug\CalculoConsumo.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\bin\Debug\CalculoConsumo.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.Form1.resources
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.Properties.Resources.resources
+D:\!!!Programação!!!\2º Módulo\C#\Form\CalculoConsumo(Energia, Agua)\CalculoConsumo\obj\Debug\CalculoConsumo.csproj.GenerateResource.Cache

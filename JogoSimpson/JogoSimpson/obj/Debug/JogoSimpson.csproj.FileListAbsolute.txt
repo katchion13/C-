@@ -1,0 +1,22 @@
+J:\JogoSimpson\JogoSimpson\obj\Debug\ResolveAssemblyReference.cache
+J:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.Form1.resources
+J:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.Properties.Resources.resources
+J:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.csproj.GenerateResource.Cache
+J:\JogoSimpson\JogoSimpson\bin\Debug\JogoSimpson.exe
+J:\JogoSimpson\JogoSimpson\bin\Debug\JogoSimpson.pdb
+J:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.exe
+J:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.pdb
+E:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.exe
+E:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.pdb
+E:\JogoSimpson\JogoSimpson\bin\Debug\JogoSimpson.exe
+E:\JogoSimpson\JogoSimpson\bin\Debug\JogoSimpson.pdb
+E:\JogoSimpson\JogoSimpson\obj\Debug\ResolveAssemblyReference.cache
+E:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.Form1.resources
+E:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.Properties.Resources.resources
+E:\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.csproj.GenerateResource.Cache
+D:\!!!Programação!!!\Programando\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.exe
+D:\!!!Programação!!!\Programando\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.pdb
+E:\Programando\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.exe
+E:\Programando\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\JogoSimpson\JogoSimpson\obj\Debug\JogoSimpson.pdb
