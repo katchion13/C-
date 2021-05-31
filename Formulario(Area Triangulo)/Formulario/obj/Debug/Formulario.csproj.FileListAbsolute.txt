@@ -1,0 +1,20 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\bin\Debug\Formulario.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\obj\Debug\Formulario.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Tarde\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\Tarde\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.pdb
+D:\2º Módulo\C#\Formulario\Formulario\obj\Debug\Formulario.exe
+D:\2º Módulo\C#\Formulario\Formulario\obj\Debug\Formulario.pdb
+D:\2º Módulo\C#\Formulario\Formulario\bin\Debug\Formulario.exe
+D:\2º Módulo\C#\Formulario\Formulario\bin\Debug\Formulario.pdb
+D:\2º Módulo\C#\Formulario\Formulario\obj\Debug\ResolveAssemblyReference.cache
+D:\2º Módulo\C#\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+D:\2º Módulo\C#\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\2º Módulo\C#\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+D:\!!!Programação!!!\2º Módulo\C#\Form\Formulario(Area Triangulo)\Formulario\obj\Debug\Formulario.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\Formulario(Area Triangulo)\Formulario\obj\Debug\Formulario.pdb
