@@ -1,0 +1,28 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\bin\Debug\PCarro.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\bin\Debug\PCarro.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\obj\Debug\PCarro.Form1.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\obj\Debug\PCarro.Properties.Resources.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\obj\Debug\PCarro.csproj.GenerateResource.Cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\obj\Debug\PCarro.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\PCarro\obj\Debug\PCarro.pdb
+J:\PCarro\PCarro\obj\Debug\PCarro.exe
+J:\PCarro\PCarro\obj\Debug\PCarro.pdb
+E:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.exe
+E:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.pdb
+E:\2º Módulo\C#\PCarro\PCarro\bin\Debug\PCarro.exe
+E:\2º Módulo\C#\PCarro\PCarro\bin\Debug\PCarro.pdb
+E:\2º Módulo\C#\PCarro\PCarro\obj\Debug\ResolveAssemblyReference.cache
+E:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.Form1.resources
+E:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.Properties.Resources.resources
+E:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.csproj.GenerateResource.Cache
+J:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.exe
+J:\2º Módulo\C#\PCarro\PCarro\obj\Debug\PCarro.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\obj\Debug\PCarro.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\obj\Debug\PCarro.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\bin\Debug\PCarro.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\bin\Debug\PCarro.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\obj\Debug\PCarro.Form1.resources
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\obj\Debug\PCarro.Properties.Resources.resources
+D:\!!!Programação!!!\2º Módulo\C#\Form\PCarro(Carro Andando)\PCarro\obj\Debug\PCarro.csproj.GenerateResource.Cache

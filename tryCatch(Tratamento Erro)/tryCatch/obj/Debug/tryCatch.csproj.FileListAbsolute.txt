@@ -1,0 +1,22 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\obj\Debug\tryCatch.Form1.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\obj\Debug\tryCatch.Properties.Resources.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\obj\Debug\tryCatch.csproj.GenerateResource.Cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\bin\Debug\tryCatch.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\bin\Debug\tryCatch.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\tryCatch\obj\Debug\tryCatch.pdb
+C:\Users\Tarde\Documents\C#\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\Tarde\Documents\C#\tryCatch\tryCatch\obj\Debug\tryCatch.pdb
+J:\Curso Etec\C#\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+J:\Curso Etec\C#\tryCatch\tryCatch\obj\Debug\tryCatch.pdb
+D:\2º Módulo\C#\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+D:\2º Módulo\C#\tryCatch\tryCatch\obj\Debug\tryCatch.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\obj\Debug\tryCatch.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\obj\Debug\tryCatch.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\bin\Debug\tryCatch.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\bin\Debug\tryCatch.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\obj\Debug\tryCatch.Form1.resources
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\obj\Debug\tryCatch.Properties.Resources.resources
+D:\!!!Programação!!!\2º Módulo\C#\Form\tryCatch(Tratamento Erro)\tryCatch\obj\Debug\tryCatch.csproj.GenerateResource.Cache

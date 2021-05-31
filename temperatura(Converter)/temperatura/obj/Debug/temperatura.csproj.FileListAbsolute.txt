@@ -1,0 +1,21 @@
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.Form1.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.Properties.Resources.resources
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.csproj.GenerateResource.Cache
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\bin\Debug\temperatura.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\bin\Debug\temperatura.pdb
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.exe
+C:\Users\Tarde\AppData\Local\Temporary Projects\temperatura\obj\Debug\temperatura.pdb
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.exe
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.pdb
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.Conversao.resources
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.Form1.resources
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.Properties.Resources.resources
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\obj\Debug\temperatura.csproj.GenerateResource.Cache
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\bin\Debug\temperatura.exe
+C:\Users\Tarde\Documents\C#\temperatura\temperatura\bin\Debug\temperatura.pdb
+D:\2º Módulo\C#\temperatura\temperatura\obj\Debug\temperatura.exe
+D:\2º Módulo\C#\temperatura\temperatura\obj\Debug\temperatura.pdb
+D:\!!!Programação!!!\2º Módulo\C#\Form\temperatura\temperatura\obj\Debug\temperatura.exe
+D:\!!!Programação!!!\2º Módulo\C#\Form\temperatura\temperatura\obj\Debug\temperatura.pdb
